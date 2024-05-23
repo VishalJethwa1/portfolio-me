@@ -1,9 +1,18 @@
-/* *{
+*{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-} */
-div>ul{
+}
+.logo{
+    width: 10%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* div>ul{
     display: flex;
     justify-content: center;
 }
@@ -17,4 +26,4 @@ section{
     height: 450px;
     box-shadow: 1px 8px 15px lightgrey;
     margin-top: 18px;
-}
+} */
