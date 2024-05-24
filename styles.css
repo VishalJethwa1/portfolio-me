@@ -4,16 +4,20 @@
     padding: 0;
 }
 .logo{
-    width: 10%;
-    height: 120px;
+    width: 200px;
+    height: 150px;
     /* display: grid;
     grid-template-columns: auto;
     justify-content: center;
     align-content: center; */
 }
+.logo h1{
+    text-align: center;
+}
 .logo span{
     color: gold;
     font-weight: lighter;
+    text-align: center;
 }
 
 
