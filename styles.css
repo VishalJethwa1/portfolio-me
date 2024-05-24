@@ -19,20 +19,6 @@
     font-weight: lighter;
     text-align: center;
 }
-
-
-/* div>ul{
-    display: flex;
-    justify-content: center;
+nav ul li {
+    color: white;
 }
-div>ul>li{
-    padding: 5px 15px;
-}
-section{
-    padding: 15px;
-    border: 1px solid white;
-    border-radius: 10px;
-    height: 450px;
-    box-shadow: 1px 8px 15px lightgrey;
-    margin-top: 18px;
-} */
