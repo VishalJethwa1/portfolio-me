@@ -7,6 +7,8 @@
 *:before {
     box-sizing: border-box;
 }
+
+
 .logo{
     width: 200px;
     height: 150px;
@@ -28,6 +30,8 @@ nav>ul>li:hover{
     text-shadow: 1px 1px 3px gold;
     color: gold;
 }
+
+
 
 /*CSS For Buttons*/
 :root{
