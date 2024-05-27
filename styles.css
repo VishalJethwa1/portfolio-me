@@ -2,14 +2,11 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    transition: 0.2s all;
 }
 .logo{
     width: 200px;
     height: 150px;
-    /* display: grid;
-    grid-template-columns: auto;
-    justify-content: center;
-    align-content: center; */
 }
 .logo h1{
     text-align: center;
@@ -21,4 +18,9 @@
 }
 nav ul li {
     color: white;
+    border: 1px solid transparent;
+}
+nav>ul>li:hover{
+    text-shadow: 1px 1px 5px yellowgreen;
+    color: black;
 }
